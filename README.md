@@ -1,5 +1,4 @@
 # Cisco-IPSec-Site-to-Site-VPN-Lab
-# Cisco IPsec Site-to-Site VPN Lab
 
 > A Cisco Packet Tracer project demonstrating the implementation of a secure Site-to-Site IPsec VPN between two branch offices over an untrusted ISP network.
 
